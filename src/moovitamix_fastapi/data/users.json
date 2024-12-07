@@ -1,0 +1,1008 @@
+{
+    "items": [
+        {
+            "id": 79283,
+            "first_name": "Rodney",
+            "last_name": "Kelly",
+            "email": "taylorlawson@example.com",
+            "gender": "Gender nonconforming",
+            "favorite_genres": "Reggae",
+            "created_at": "2024-05-30T12:10:49",
+            "updated_at": "2024-04-25T06:57:18"
+        },
+        {
+            "id": 71022,
+            "first_name": "Matthew",
+            "last_name": "Stephens",
+            "email": "smithsteven@example.net",
+            "gender": "Male",
+            "favorite_genres": "Punk",
+            "created_at": "2024-02-09T17:41:43",
+            "updated_at": "2024-10-15T04:36:40"
+        },
+        {
+            "id": 68614,
+            "first_name": "Jessica",
+            "last_name": "Howard",
+            "email": "carolyn99@example.org",
+            "gender": "Gender questioning",
+            "favorite_genres": "Rock",
+            "created_at": "2023-06-05T06:45:26",
+            "updated_at": "2024-09-01T15:07:24"
+        },
+        {
+            "id": 61168,
+            "first_name": "Melissa",
+            "last_name": "Martinez",
+            "email": "kirwin@example.org",
+            "gender": "Gender nonconforming",
+            "favorite_genres": "Country",
+            "created_at": "2023-11-01T14:00:47",
+            "updated_at": "2024-12-04T13:01:53"
+        },
+        {
+            "id": 37840,
+            "first_name": "James",
+            "last_name": "Wong",
+            "email": "jeffrey01@example.net",
+            "gender": "Female",
+            "favorite_genres": "Funk",
+            "created_at": "2024-02-16T20:50:29",
+            "updated_at": "2024-09-26T01:03:54"
+        },
+        {
+            "id": 77324,
+            "first_name": "David",
+            "last_name": "Maldonado",
+            "email": "justinmitchell@example.com",
+            "gender": "Genderfluid",
+            "favorite_genres": "Classical",
+            "created_at": "2023-01-23T02:01:09",
+            "updated_at": "2024-11-13T17:28:41"
+        },
+        {
+            "id": 92004,
+            "first_name": "Zachary",
+            "last_name": "Marsh",
+            "email": "sanchezisabel@example.net",
+            "gender": "Genderqueer",
+            "favorite_genres": "Blues",
+            "created_at": "2024-08-11T12:30:19",
+            "updated_at": "2024-03-29T11:46:36"
+        },
+        {
+            "id": 55180,
+            "first_name": "Patricia",
+            "last_name": "Ochoa",
+            "email": "lonnie82@example.com",
+            "gender": "Non-binary",
+            "favorite_genres": "Electronic",
+            "created_at": "2024-03-03T00:02:27",
+            "updated_at": "2023-12-26T00:19:19"
+        },
+        {
+            "id": 15419,
+            "first_name": "Kim",
+            "last_name": "Garcia",
+            "email": "richardsonpatricia@example.org",
+            "gender": "Non-binary",
+            "favorite_genres": "Folk",
+            "created_at": "2024-04-11T22:45:05",
+            "updated_at": "2024-04-19T06:34:05"
+        },
+        {
+            "id": 36737,
+            "first_name": "Nathan",
+            "last_name": "Hughes",
+            "email": "pittmansamantha@example.net",
+            "gender": "Female",
+            "favorite_genres": "Punk",
+            "created_at": "2024-06-17T08:52:31",
+            "updated_at": "2024-06-17T04:53:05"
+        },
+        {
+            "id": 70553,
+            "first_name": "Christopher",
+            "last_name": "Smith",
+            "email": "robinsonmark@example.org",
+            "gender": "Male",
+            "favorite_genres": "Indie",
+            "created_at": "2024-05-16T18:25:55",
+            "updated_at": "2024-06-21T09:16:20"
+        },
+        {
+            "id": 71245,
+            "first_name": "Sara",
+            "last_name": "Cruz",
+            "email": "hbrown@example.org",
+            "gender": "Bigender",
+            "favorite_genres": "Funk",
+            "created_at": "2023-06-24T06:14:40",
+            "updated_at": "2024-10-25T21:41:47"
+        },
+        {
+            "id": 551,
+            "first_name": "Andrew",
+            "last_name": "King",
+            "email": "morganandrea@example.net",
+            "gender": "Agender",
+            "favorite_genres": "Indie",
+            "created_at": "2023-05-21T11:58:47",
+            "updated_at": "2024-06-18T05:00:42"
+        },
+        {
+            "id": 97477,
+            "first_name": "Matthew",
+            "last_name": "Pruitt",
+            "email": "xsweeney@example.com",
+            "gender": "Bigender",
+            "favorite_genres": "Pop",
+            "created_at": "2024-09-27T05:35:30",
+            "updated_at": "2024-01-17T22:02:09"
+        },
+        {
+            "id": 68028,
+            "first_name": "Lisa",
+            "last_name": "Williams",
+            "email": "longjason@example.net",
+            "gender": "Male",
+            "favorite_genres": "Reggae",
+            "created_at": "2023-12-05T22:16:07",
+            "updated_at": "2024-12-05T01:14:14"
+        },
+        {
+            "id": 11274,
+            "first_name": "Kelly",
+            "last_name": "Boyle",
+            "email": "lindajohnson@example.org",
+            "gender": "Male",
+            "favorite_genres": "Hip Hop",
+            "created_at": "2024-02-08T01:13:13",
+            "updated_at": "2024-11-06T22:14:06"
+        },
+        {
+            "id": 826,
+            "first_name": "Mark",
+            "last_name": "Thomas",
+            "email": "francisco33@example.org",
+            "gender": "Gender nonconforming",
+            "favorite_genres": "Funk",
+            "created_at": "2024-05-02T03:00:39",
+            "updated_at": "2024-08-05T12:22:23"
+        },
+        {
+            "id": 23818,
+            "first_name": "Timothy",
+            "last_name": "Jones",
+            "email": "joanne69@example.net",
+            "gender": "Female",
+            "favorite_genres": "Punk",
+            "created_at": "2024-04-15T00:31:19",
+            "updated_at": "2024-09-25T10:22:59"
+        },
+        {
+            "id": 6988,
+            "first_name": "Kristine",
+            "last_name": "Reyes",
+            "email": "shawnwilson@example.com",
+            "gender": "Gender questioning",
+            "favorite_genres": "Hip Hop",
+            "created_at": "2024-08-22T12:51:59",
+            "updated_at": "2024-07-24T08:17:23"
+        },
+        {
+            "id": 13190,
+            "first_name": "Robin",
+            "last_name": "Briggs",
+            "email": "holmesphillip@example.net",
+            "gender": "Male",
+            "favorite_genres": "Alternative",
+            "created_at": "2024-06-04T07:16:20",
+            "updated_at": "2024-07-13T00:59:42"
+        },
+        {
+            "id": 33499,
+            "first_name": "Daniel",
+            "last_name": "Richard",
+            "email": "gabrielle73@example.net",
+            "gender": "Non-binary",
+            "favorite_genres": "Punk",
+            "created_at": "2023-06-22T03:20:04",
+            "updated_at": "2024-03-16T16:02:34"
+        },
+        {
+            "id": 52794,
+            "first_name": "Drew",
+            "last_name": "Nelson",
+            "email": "joe47@example.org",
+            "gender": "Gender questioning",
+            "favorite_genres": "Techno",
+            "created_at": "2024-10-19T05:05:15",
+            "updated_at": "2024-09-12T17:11:06"
+        },
+        {
+            "id": 92434,
+            "first_name": "Tracey",
+            "last_name": "Kelly",
+            "email": "edgarzhang@example.org",
+            "gender": "Genderqueer",
+            "favorite_genres": "Blues",
+            "created_at": "2024-01-11T04:33:10",
+            "updated_at": "2024-08-01T15:51:02"
+        },
+        {
+            "id": 55709,
+            "first_name": "Lisa",
+            "last_name": "Collins",
+            "email": "shawnpetty@example.com",
+            "gender": "Genderfluid",
+            "favorite_genres": "Alternative",
+            "created_at": "2024-09-20T10:50:33",
+            "updated_at": "2024-04-25T23:52:12"
+        },
+        {
+            "id": 42173,
+            "first_name": "Robert",
+            "last_name": "Crawford",
+            "email": "lopeztaylor@example.com",
+            "gender": "Non-binary",
+            "favorite_genres": "Blues",
+            "created_at": "2024-02-12T11:39:17",
+            "updated_at": "2024-09-22T06:44:17"
+        },
+        {
+            "id": 92957,
+            "first_name": "Chelsea",
+            "last_name": "Maldonado",
+            "email": "annette02@example.com",
+            "gender": "Gender questioning",
+            "favorite_genres": "Blues",
+            "created_at": "2024-06-26T11:06:08",
+            "updated_at": "2024-09-24T08:55:14"
+        },
+        {
+            "id": 3344,
+            "first_name": "Brent",
+            "last_name": "Martinez",
+            "email": "sperez@example.org",
+            "gender": "Bigender",
+            "favorite_genres": "Punk",
+            "created_at": "2024-07-13T09:03:20",
+            "updated_at": "2024-04-25T06:50:56"
+        },
+        {
+            "id": 6925,
+            "first_name": "Douglas",
+            "last_name": "Cantrell",
+            "email": "whiteemma@example.com",
+            "gender": "Genderqueer",
+            "favorite_genres": "Reggae",
+            "created_at": "2024-06-03T21:46:13",
+            "updated_at": "2024-09-26T11:43:28"
+        },
+        {
+            "id": 89743,
+            "first_name": "Ralph",
+            "last_name": "Patterson",
+            "email": "vincentdavid@example.com",
+            "gender": "Gender questioning",
+            "favorite_genres": "Alternative",
+            "created_at": "2023-06-01T00:23:00",
+            "updated_at": "2024-04-01T20:06:33"
+        },
+        {
+            "id": 96418,
+            "first_name": "Catherine",
+            "last_name": "Carroll",
+            "email": "johnsonlori@example.com",
+            "gender": "Male",
+            "favorite_genres": "Folk",
+            "created_at": "2023-05-10T17:48:31",
+            "updated_at": "2024-08-19T04:30:49"
+        },
+        {
+            "id": 29819,
+            "first_name": "Leslie",
+            "last_name": "Swanson",
+            "email": "pettyeric@example.net",
+            "gender": "Gender questioning",
+            "favorite_genres": "Folk",
+            "created_at": "2023-10-17T01:09:19",
+            "updated_at": "2024-09-18T02:58:32"
+        },
+        {
+            "id": 4259,
+            "first_name": "Cory",
+            "last_name": "Clark",
+            "email": "woodsjeffrey@example.com",
+            "gender": "Female",
+            "favorite_genres": "Blues",
+            "created_at": "2023-04-02T00:46:29",
+            "updated_at": "2024-09-04T14:19:21"
+        },
+        {
+            "id": 14443,
+            "first_name": "Lindsey",
+            "last_name": "Lopez",
+            "email": "nicholscolleen@example.net",
+            "gender": "Genderqueer",
+            "favorite_genres": "Jazz",
+            "created_at": "2024-08-25T11:49:43",
+            "updated_at": "2024-10-06T16:13:52"
+        },
+        {
+            "id": 42901,
+            "first_name": "John",
+            "last_name": "West",
+            "email": "williamskevin@example.net",
+            "gender": "Agender",
+            "favorite_genres": "Blues",
+            "created_at": "2024-04-29T23:52:42",
+            "updated_at": "2024-06-22T12:27:39"
+        },
+        {
+            "id": 32288,
+            "first_name": "Shelby",
+            "last_name": "Gonzales",
+            "email": "williamslindsey@example.org",
+            "gender": "Non-binary",
+            "favorite_genres": "R&B",
+            "created_at": "2024-02-25T20:47:07",
+            "updated_at": "2024-01-19T02:58:51"
+        },
+        {
+            "id": 90682,
+            "first_name": "Cassidy",
+            "last_name": "Phillips",
+            "email": "asmith@example.net",
+            "gender": "Female",
+            "favorite_genres": "Pop",
+            "created_at": "2024-05-18T16:14:30",
+            "updated_at": "2024-07-18T14:35:37"
+        },
+        {
+            "id": 81378,
+            "first_name": "Amanda",
+            "last_name": "Rogers",
+            "email": "richardtucker@example.org",
+            "gender": "Gender questioning",
+            "favorite_genres": "Rock",
+            "created_at": "2023-09-24T03:08:39",
+            "updated_at": "2024-01-09T12:25:27"
+        },
+        {
+            "id": 5972,
+            "first_name": "Kevin",
+            "last_name": "Bray",
+            "email": "jonesdaniel@example.com",
+            "gender": "Agender",
+            "favorite_genres": "Classical",
+            "created_at": "2023-11-27T22:50:23",
+            "updated_at": "2024-01-01T18:02:28"
+        },
+        {
+            "id": 43724,
+            "first_name": "Mark",
+            "last_name": "Sanchez",
+            "email": "victoria49@example.com",
+            "gender": "Gender questioning",
+            "favorite_genres": "Metal",
+            "created_at": "2023-12-30T04:54:42",
+            "updated_at": "2024-10-17T06:35:40"
+        },
+        {
+            "id": 31507,
+            "first_name": "Erika",
+            "last_name": "Smith",
+            "email": "riosamanda@example.org",
+            "gender": "Genderqueer",
+            "favorite_genres": "Indie",
+            "created_at": "2024-02-01T02:01:21",
+            "updated_at": "2024-04-05T03:16:02"
+        },
+        {
+            "id": 64889,
+            "first_name": "Richard",
+            "last_name": "Walsh",
+            "email": "kristenwatson@example.com",
+            "gender": "Non-binary",
+            "favorite_genres": "Electronic",
+            "created_at": "2023-01-31T18:56:02",
+            "updated_at": "2024-04-27T05:14:44"
+        },
+        {
+            "id": 92099,
+            "first_name": "Mark",
+            "last_name": "Rubio",
+            "email": "jean81@example.com",
+            "gender": "Gender nonconforming",
+            "favorite_genres": "Punk",
+            "created_at": "2023-01-26T01:57:58",
+            "updated_at": "2024-05-24T00:03:03"
+        },
+        {
+            "id": 6860,
+            "first_name": "Brenda",
+            "last_name": "Horne",
+            "email": "timothysalazar@example.org",
+            "gender": "Female",
+            "favorite_genres": "Reggae",
+            "created_at": "2024-11-20T14:12:35",
+            "updated_at": "2024-05-08T01:39:37"
+        },
+        {
+            "id": 30301,
+            "first_name": "Erin",
+            "last_name": "Rich",
+            "email": "keithconner@example.org",
+            "gender": "Genderfluid",
+            "favorite_genres": "Folk",
+            "created_at": "2023-07-22T10:38:54",
+            "updated_at": "2024-01-16T13:14:45"
+        },
+        {
+            "id": 76483,
+            "first_name": "Lisa",
+            "last_name": "Obrien",
+            "email": "alison94@example.org",
+            "gender": "Female",
+            "favorite_genres": "Punk",
+            "created_at": "2023-12-10T17:24:55",
+            "updated_at": "2024-03-13T06:59:08"
+        },
+        {
+            "id": 80154,
+            "first_name": "Frank",
+            "last_name": "Hill",
+            "email": "jdavis@example.org",
+            "gender": "Non-binary",
+            "favorite_genres": "Funk",
+            "created_at": "2024-08-06T17:00:28",
+            "updated_at": "2024-07-31T11:19:12"
+        },
+        {
+            "id": 16534,
+            "first_name": "Isaac",
+            "last_name": "Gray",
+            "email": "hensleyjames@example.org",
+            "gender": "Bigender",
+            "favorite_genres": "Reggae",
+            "created_at": "2024-10-05T12:44:02",
+            "updated_at": "2024-05-20T10:17:12"
+        },
+        {
+            "id": 18320,
+            "first_name": "Kathleen",
+            "last_name": "Dougherty",
+            "email": "david69@example.com",
+            "gender": "Gender nonconforming",
+            "favorite_genres": "Techno",
+            "created_at": "2024-10-24T17:14:51",
+            "updated_at": "2024-11-25T23:18:52"
+        },
+        {
+            "id": 22458,
+            "first_name": "Joel",
+            "last_name": "Gonzalez",
+            "email": "llamb@example.net",
+            "gender": "Gender nonconforming",
+            "favorite_genres": "Folk",
+            "created_at": "2023-10-13T22:03:02",
+            "updated_at": "2024-10-01T08:12:32"
+        },
+        {
+            "id": 71754,
+            "first_name": "Sean",
+            "last_name": "Rose",
+            "email": "alishaholder@example.net",
+            "gender": "Bigender",
+            "favorite_genres": "Classical",
+            "created_at": "2024-03-03T20:34:53",
+            "updated_at": "2024-08-31T12:06:14"
+        },
+        {
+            "id": 19744,
+            "first_name": "Mary",
+            "last_name": "Taylor",
+            "email": "michaeljohnson@example.com",
+            "gender": "Agender",
+            "favorite_genres": "Punk",
+            "created_at": "2023-06-09T12:24:06",
+            "updated_at": "2024-04-01T01:37:08"
+        },
+        {
+            "id": 76013,
+            "first_name": "David",
+            "last_name": "Brock",
+            "email": "hfisher@example.net",
+            "gender": "Female",
+            "favorite_genres": "Punk",
+            "created_at": "2024-10-07T10:45:57",
+            "updated_at": "2024-11-13T11:19:30"
+        },
+        {
+            "id": 49505,
+            "first_name": "Patty",
+            "last_name": "Murphy",
+            "email": "ksmith@example.org",
+            "gender": "Agender",
+            "favorite_genres": "Pop",
+            "created_at": "2023-10-25T00:58:11",
+            "updated_at": "2024-09-06T07:28:06"
+        },
+        {
+            "id": 88634,
+            "first_name": "James",
+            "last_name": "Acosta",
+            "email": "cbranch@example.com",
+            "gender": "Non-binary",
+            "favorite_genres": "R&B",
+            "created_at": "2024-01-31T03:55:44",
+            "updated_at": "2024-03-11T15:40:00"
+        },
+        {
+            "id": 14,
+            "first_name": "Matthew",
+            "last_name": "Bridges",
+            "email": "bennettkevin@example.com",
+            "gender": "Genderfluid",
+            "favorite_genres": "Folk",
+            "created_at": "2023-04-15T21:28:33",
+            "updated_at": "2024-09-26T19:01:26"
+        },
+        {
+            "id": 52519,
+            "first_name": "Jeffery",
+            "last_name": "Velasquez",
+            "email": "daniel38@example.org",
+            "gender": "Gender questioning",
+            "favorite_genres": "Folk",
+            "created_at": "2023-04-21T17:04:52",
+            "updated_at": "2024-08-31T06:50:17"
+        },
+        {
+            "id": 79328,
+            "first_name": "Carl",
+            "last_name": "Contreras",
+            "email": "lhill@example.org",
+            "gender": "Female",
+            "favorite_genres": "Metal",
+            "created_at": "2024-05-15T05:08:28",
+            "updated_at": "2024-02-20T17:53:40"
+        },
+        {
+            "id": 63109,
+            "first_name": "Matthew",
+            "last_name": "Ross",
+            "email": "cindy63@example.org",
+            "gender": "Non-binary",
+            "favorite_genres": "Hip Hop",
+            "created_at": "2022-12-11T03:03:24",
+            "updated_at": "2024-04-28T20:04:27"
+        },
+        {
+            "id": 44733,
+            "first_name": "Kyle",
+            "last_name": "Herrera",
+            "email": "xmatthews@example.org",
+            "gender": "Bigender",
+            "favorite_genres": "Jazz",
+            "created_at": "2023-04-07T00:35:37",
+            "updated_at": "2024-10-30T09:25:21"
+        },
+        {
+            "id": 91804,
+            "first_name": "Cindy",
+            "last_name": "Wright",
+            "email": "edwardscaitlin@example.org",
+            "gender": "Gender nonconforming",
+            "favorite_genres": "Punk",
+            "created_at": "2023-07-12T07:12:08",
+            "updated_at": "2024-02-18T06:00:24"
+        },
+        {
+            "id": 59976,
+            "first_name": "Mark",
+            "last_name": "Solomon",
+            "email": "imitchell@example.com",
+            "gender": "Male",
+            "favorite_genres": "Country",
+            "created_at": "2023-09-27T01:19:00",
+            "updated_at": "2024-09-05T04:26:44"
+        },
+        {
+            "id": 85802,
+            "first_name": "Stephanie",
+            "last_name": "Johnson",
+            "email": "asmith@example.org",
+            "gender": "Agender",
+            "favorite_genres": "Jazz",
+            "created_at": "2023-03-04T00:24:12",
+            "updated_at": "2024-02-04T16:53:58"
+        },
+        {
+            "id": 22475,
+            "first_name": "Kristen",
+            "last_name": "Hill",
+            "email": "victorestes@example.org",
+            "gender": "Gender nonconforming",
+            "favorite_genres": "Metal",
+            "created_at": "2024-01-16T08:05:44",
+            "updated_at": "2024-01-23T13:44:34"
+        },
+        {
+            "id": 88700,
+            "first_name": "Michael",
+            "last_name": "Sullivan",
+            "email": "csalinas@example.com",
+            "gender": "Non-binary",
+            "favorite_genres": "Blues",
+            "created_at": "2023-10-10T08:56:16",
+            "updated_at": "2024-04-11T20:39:21"
+        },
+        {
+            "id": 21175,
+            "first_name": "Heather",
+            "last_name": "Morris",
+            "email": "edwardmiller@example.org",
+            "gender": "Gender questioning",
+            "favorite_genres": "Techno",
+            "created_at": "2023-12-14T11:40:27",
+            "updated_at": "2024-03-05T06:21:25"
+        },
+        {
+            "id": 7196,
+            "first_name": "Brandon",
+            "last_name": "Copeland",
+            "email": "asmith@example.com",
+            "gender": "Gender nonconforming",
+            "favorite_genres": "R&B",
+            "created_at": "2023-08-25T22:00:29",
+            "updated_at": "2024-10-07T22:33:45"
+        },
+        {
+            "id": 78547,
+            "first_name": "Duane",
+            "last_name": "Bolton",
+            "email": "robinsontheresa@example.net",
+            "gender": "Genderqueer",
+            "favorite_genres": "R&B",
+            "created_at": "2023-10-18T06:30:33",
+            "updated_at": "2024-11-11T06:00:26"
+        },
+        {
+            "id": 81224,
+            "first_name": "Edward",
+            "last_name": "Merritt",
+            "email": "allenallen@example.org",
+            "gender": "Genderfluid",
+            "favorite_genres": "Techno",
+            "created_at": "2024-01-03T18:43:22",
+            "updated_at": "2024-08-05T09:57:02"
+        },
+        {
+            "id": 13668,
+            "first_name": "Amanda",
+            "last_name": "Scott",
+            "email": "anneguzman@example.net",
+            "gender": "Gender nonconforming",
+            "favorite_genres": "Folk",
+            "created_at": "2024-11-23T14:56:27",
+            "updated_at": "2024-02-12T11:02:29"
+        },
+        {
+            "id": 80938,
+            "first_name": "Caroline",
+            "last_name": "Nguyen",
+            "email": "qgray@example.net",
+            "gender": "Non-binary",
+            "favorite_genres": "Jazz",
+            "created_at": "2024-05-15T23:24:31",
+            "updated_at": "2024-05-15T16:18:59"
+        },
+        {
+            "id": 41170,
+            "first_name": "Ashlee",
+            "last_name": "Williams",
+            "email": "ggutierrez@example.com",
+            "gender": "Agender",
+            "favorite_genres": "Punk",
+            "created_at": "2024-02-26T07:51:29",
+            "updated_at": "2024-11-14T11:18:58"
+        },
+        {
+            "id": 19146,
+            "first_name": "Janet",
+            "last_name": "Becker",
+            "email": "lukereed@example.com",
+            "gender": "Gender nonconforming",
+            "favorite_genres": "Folk",
+            "created_at": "2024-03-10T14:29:29",
+            "updated_at": "2024-06-17T02:55:01"
+        },
+        {
+            "id": 5454,
+            "first_name": "Clinton",
+            "last_name": "Hicks",
+            "email": "oturner@example.com",
+            "gender": "Bigender",
+            "favorite_genres": "Hip Hop",
+            "created_at": "2023-09-11T05:51:03",
+            "updated_at": "2024-09-02T22:44:29"
+        },
+        {
+            "id": 81620,
+            "first_name": "Elizabeth",
+            "last_name": "Gonzales",
+            "email": "daniel69@example.net",
+            "gender": "Genderfluid",
+            "favorite_genres": "Techno",
+            "created_at": "2022-12-21T02:32:12",
+            "updated_at": "2023-12-14T18:17:45"
+        },
+        {
+            "id": 94489,
+            "first_name": "Bethany",
+            "last_name": "Zhang",
+            "email": "swilliams@example.org",
+            "gender": "Female",
+            "favorite_genres": "Electronic",
+            "created_at": "2023-01-15T15:32:17",
+            "updated_at": "2024-10-20T23:33:37"
+        },
+        {
+            "id": 50336,
+            "first_name": "Jacqueline",
+            "last_name": "Stevenson",
+            "email": "james23@example.org",
+            "gender": "Genderqueer",
+            "favorite_genres": "Country",
+            "created_at": "2023-01-28T03:59:50",
+            "updated_at": "2024-04-01T04:08:42"
+        },
+        {
+            "id": 83401,
+            "first_name": "Amanda",
+            "last_name": "Taylor",
+            "email": "rodneyfoster@example.net",
+            "gender": "Agender",
+            "favorite_genres": "Punk",
+            "created_at": "2024-10-24T17:00:08",
+            "updated_at": "2024-05-10T04:36:11"
+        },
+        {
+            "id": 14671,
+            "first_name": "Marvin",
+            "last_name": "Knight",
+            "email": "johnsonjohn@example.net",
+            "gender": "Genderqueer",
+            "favorite_genres": "Hip Hop",
+            "created_at": "2024-01-23T16:11:41",
+            "updated_at": "2024-04-08T10:36:07"
+        },
+        {
+            "id": 24226,
+            "first_name": "Katherine",
+            "last_name": "Gonzales",
+            "email": "wbarrera@example.com",
+            "gender": "Non-binary",
+            "favorite_genres": "Rock",
+            "created_at": "2024-01-06T02:45:01",
+            "updated_at": "2024-07-02T18:16:47"
+        },
+        {
+            "id": 76325,
+            "first_name": "Kimberly",
+            "last_name": "Evans",
+            "email": "tiffany05@example.net",
+            "gender": "Male",
+            "favorite_genres": "Funk",
+            "created_at": "2024-04-11T23:48:07",
+            "updated_at": "2024-08-08T16:07:12"
+        },
+        {
+            "id": 77484,
+            "first_name": "Shannon",
+            "last_name": "Craig",
+            "email": "xmiller@example.com",
+            "gender": "Non-binary",
+            "favorite_genres": "Hip Hop",
+            "created_at": "2022-12-15T11:51:49",
+            "updated_at": "2024-08-11T21:41:54"
+        },
+        {
+            "id": 66577,
+            "first_name": "William",
+            "last_name": "Nolan",
+            "email": "zachary96@example.net",
+            "gender": "Non-binary",
+            "favorite_genres": "Punk",
+            "created_at": "2023-12-29T19:13:23",
+            "updated_at": "2024-03-23T02:03:39"
+        },
+        {
+            "id": 25439,
+            "first_name": "Sandra",
+            "last_name": "Adams",
+            "email": "eoliver@example.net",
+            "gender": "Gender questioning",
+            "favorite_genres": "Punk",
+            "created_at": "2023-08-05T18:25:24",
+            "updated_at": "2024-07-23T22:16:13"
+        },
+        {
+            "id": 14583,
+            "first_name": "Lindsey",
+            "last_name": "Porter",
+            "email": "isnyder@example.org",
+            "gender": "Female",
+            "favorite_genres": "Electronic",
+            "created_at": "2024-10-12T13:41:40",
+            "updated_at": "2024-07-29T04:33:35"
+        },
+        {
+            "id": 63594,
+            "first_name": "Courtney",
+            "last_name": "Duarte",
+            "email": "jordanbrenda@example.com",
+            "gender": "Gender nonconforming",
+            "favorite_genres": "Punk",
+            "created_at": "2023-04-25T13:42:01",
+            "updated_at": "2024-12-07T02:09:35"
+        },
+        {
+            "id": 24428,
+            "first_name": "Mary",
+            "last_name": "Myers",
+            "email": "dan12@example.net",
+            "gender": "Female",
+            "favorite_genres": "Jazz",
+            "created_at": "2023-08-27T15:37:47",
+            "updated_at": "2024-08-03T02:05:28"
+        },
+        {
+            "id": 81562,
+            "first_name": "Brandon",
+            "last_name": "Clark",
+            "email": "rnavarro@example.net",
+            "gender": "Non-binary",
+            "favorite_genres": "Metal",
+            "created_at": "2024-05-25T06:38:11",
+            "updated_at": "2023-12-10T16:12:50"
+        },
+        {
+            "id": 29781,
+            "first_name": "Kristin",
+            "last_name": "Simmons",
+            "email": "stephen79@example.com",
+            "gender": "Male",
+            "favorite_genres": "Classical",
+            "created_at": "2024-04-26T19:47:44",
+            "updated_at": "2024-04-07T04:55:56"
+        },
+        {
+            "id": 24878,
+            "first_name": "Carlos",
+            "last_name": "Davis",
+            "email": "ystone@example.net",
+            "gender": "Gender nonconforming",
+            "favorite_genres": "Techno",
+            "created_at": "2023-05-01T03:06:12",
+            "updated_at": "2024-10-11T02:14:38"
+        },
+        {
+            "id": 49874,
+            "first_name": "Heather",
+            "last_name": "Mcgrath",
+            "email": "whitakerlauren@example.com",
+            "gender": "Female",
+            "favorite_genres": "Hip Hop",
+            "created_at": "2023-05-12T07:03:59",
+            "updated_at": "2024-03-17T06:18:59"
+        },
+        {
+            "id": 60767,
+            "first_name": "Kyle",
+            "last_name": "Cooper",
+            "email": "jeffreyingram@example.com",
+            "gender": "Bigender",
+            "favorite_genres": "Reggae",
+            "created_at": "2024-03-12T13:35:26",
+            "updated_at": "2024-04-08T09:51:44"
+        },
+        {
+            "id": 63767,
+            "first_name": "Tina",
+            "last_name": "Austin",
+            "email": "jdoyle@example.com",
+            "gender": "Non-binary",
+            "favorite_genres": "Funk",
+            "created_at": "2023-08-11T13:09:18",
+            "updated_at": "2024-02-26T15:23:58"
+        },
+        {
+            "id": 68931,
+            "first_name": "Erika",
+            "last_name": "Hernandez",
+            "email": "brianna63@example.net",
+            "gender": "Gender nonconforming",
+            "favorite_genres": "Classical",
+            "created_at": "2024-09-11T06:11:42",
+            "updated_at": "2024-12-04T23:49:41"
+        },
+        {
+            "id": 88127,
+            "first_name": "Joshua",
+            "last_name": "Ferguson",
+            "email": "lmoore@example.org",
+            "gender": "Genderqueer",
+            "favorite_genres": "Electronic",
+            "created_at": "2024-03-30T06:36:59",
+            "updated_at": "2024-02-28T13:35:27"
+        },
+        {
+            "id": 82371,
+            "first_name": "Veronica",
+            "last_name": "Nash",
+            "email": "kristina48@example.org",
+            "gender": "Bigender",
+            "favorite_genres": "Metal",
+            "created_at": "2023-05-04T23:12:59",
+            "updated_at": "2024-06-11T18:58:32"
+        },
+        {
+            "id": 73001,
+            "first_name": "Levi",
+            "last_name": "Mccormick",
+            "email": "christina00@example.com",
+            "gender": "Gender nonconforming",
+            "favorite_genres": "Electronic",
+            "created_at": "2024-02-09T05:25:04",
+            "updated_at": "2024-08-20T18:22:00"
+        },
+        {
+            "id": 79952,
+            "first_name": "Lisa",
+            "last_name": "Hawkins",
+            "email": "johnjones@example.net",
+            "gender": "Female",
+            "favorite_genres": "Funk",
+            "created_at": "2023-03-17T19:31:44",
+            "updated_at": "2024-05-20T14:17:39"
+        },
+        {
+            "id": 56625,
+            "first_name": "Wayne",
+            "last_name": "Mitchell",
+            "email": "petercombs@example.net",
+            "gender": "Gender questioning",
+            "favorite_genres": "Metal",
+            "created_at": "2024-09-26T09:55:42",
+            "updated_at": "2024-04-13T02:18:59"
+        },
+        {
+            "id": 7179,
+            "first_name": "Wendy",
+            "last_name": "Alvarez",
+            "email": "michellevillegas@example.com",
+            "gender": "Genderqueer",
+            "favorite_genres": "Pop",
+            "created_at": "2024-03-14T21:54:08",
+            "updated_at": "2024-06-11T11:03:47"
+        },
+        {
+            "id": 94359,
+            "first_name": "Ashley",
+            "last_name": "Morgan",
+            "email": "mcdonaldshannon@example.net",
+            "gender": "Gender nonconforming",
+            "favorite_genres": "Electronic",
+            "created_at": "2024-10-13T00:00:47",
+            "updated_at": "2024-09-07T02:25:10"
+        }
+    ],
+    "total": 1000,
+    "page": 1,
+    "size": 100,
+    "pages": 10
+}
